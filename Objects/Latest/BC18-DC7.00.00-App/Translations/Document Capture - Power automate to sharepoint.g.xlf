@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Document Capture - Power automate to sharepoint">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 3903019077 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>dcadvDocumentAPI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3903019077 - Control 486262641 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clean XML File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document API - Control documentHasCleanXmlFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3903019077 - Control 3634233978 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Html File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document API - Control documentHasHtmlFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3903019077 - Control 3336117073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Misc. File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document API - Control documentHasMiscFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3903019077 - Control 3698974099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pdf Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document API - Control documentHasPdfFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3903019077 - Control 3857682850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tiff File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document API - Control documentHasTiffFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3903019077 - Control 73228906 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document API - Control documentNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3903019077 - Control 2442691591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Record No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document API - Control sourceRecordId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3903019077 - Control 3943415201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Record Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document API - Control sourceRecordName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3903019077 - Control 1367528460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SystemId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document API - Control SystemId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 362156385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>dcadvDocumentContentAPI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document PdfFile API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 362156385 - Control 1244646017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document PdfFile API - Control FileContent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 362156385 - Control 3092263724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SystemId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document PdfFile API - Control systemId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4094459620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>dcadvDocumentContentAPI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document TiffFile API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4094459620 - Control 1244646017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document TiffFile API - Control FileContent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4094459620 - Control 1367528460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SystemId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Document TiffFile API - Control SystemId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3882138589 - EnumValue 3106743424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CleanXml</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DCADV Document Blob Types - EnumValue CleanXml - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3882138589 - EnumValue 3318775719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Html</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DCADV Document Blob Types - EnumValue Html - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3882138589 - EnumValue 3909632784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Misc</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DCADV Document Blob Types - EnumValue Misc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3882138589 - EnumValue 597548702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pdf</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DCADV Document Blob Types - EnumValue Pdf - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3882138589 - EnumValue 1903936639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tiff</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DCADV Document Blob Types - EnumValue Tiff - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3882138589 - EnumValue 429697219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Xml</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DCADV Document Blob Types - EnumValue Xml - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
