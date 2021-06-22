@@ -5,7 +5,7 @@ This is an example of a Business Central app that extends Document Capture with 
 The purpose is to enable a Document Capture company to subscribe to CDC Document Insert events and query/receive the Pdf/Tiff files to e.g. store them in Sharepoint or OneDrive.
 
 Screenshot of a Power Automate Flow connected to this API app:
-![](MISSING)
+![](https://raw.githubusercontent.com/document-capture/power-automate-connector/master/Documentation/Screenshot_power_automate.png?token=AE253VVJDXQXTEOJMNDOIXLA2HT4Q)
 
 ## Remark ##
 You can use this code as it is, without any warranty or support by me or [Continia Software A/S](https://www.continia.com "Continia Software"). 
